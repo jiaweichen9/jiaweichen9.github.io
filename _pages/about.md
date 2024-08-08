@@ -9,9 +9,9 @@ profile:
   image: jiaweichen.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 514, School of Information Management and Engineering </p>
-    <p>100 Wudong Road, Shanghai Univeristy of Finance and Economics </p>
-    <p>Yangpu District, Shanghai 200433</p>
+    <p>Room 514@SIME </p>
+    <p>100 Wudong Road</p>
+    <p>Shanghai 200433</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -22,4 +22,4 @@ I am an Associate Professor from the [Department of Information Management and E
 
 My research focuses on digital intelligence and governance for online platforms. For digital intelligence, I design data mining algorithms and methods to solve business problems. My current work is dedicated to predictive behavior modeling and personalized recommendations for emerging businesses. In terms of digital governance, I examine the societal and economic impacts of digital services. My recent research has beed devoted to digital governance for user-generated content (UGC) and AI-generated content (AIGC) platforms.
 
-Before joining [SIME@SUFE](https://sime.sufe.edu.cn/), I received my Ph.D. from the [Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/) in [Tsinghua University](https://www.tsinghua.edu.cn/). My advisor is Hongyan Liu. My dissertation is about personalized recommendation techniques based on user behavior characteristics in sharing economy. I obtained my bachelor’s degree in Computer Science from the [School of Information](http://info.ruc.edu.cn/) at [Renmin University of China](https://www.ruc.edu.cn/).
+Before joining [SIME@SUFE](https://sime.sufe.edu.cn/), I received my Ph.D. from the [Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/) in [Tsinghua University](https://www.tsinghua.edu.cn/). My advisor is [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm). My dissertation is about personalized recommendation techniques based on user behavior characteristics in sharing economy. I obtained my bachelor’s degree in Computer Science from the [School of Information](http://info.ruc.edu.cn/) at [Renmin University of China](https://www.ruc.edu.cn/).
